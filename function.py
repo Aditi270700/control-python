@@ -8,4 +8,7 @@ q = int(input("Enter 2nd value"))
 r = int(input("Enter 3rd value"))
 x = add(p,q,r) 
 print(x)
-#  x = add(y=r,x=p,z=q) this keyword argument
+#  a,b,c = add(y=r,x=p,z=q) this keyword argument
+# print (a)
+# print (b)
+#  print (c)
